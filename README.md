@@ -1,0 +1,18 @@
+Cardiovascular disease is one of the top causes
+of death globally, making early detection and risk assess-
+ment critical for saving lives [1]. Traditional risk assessment
+methods have limitations, and researchers have shown
+that machine learning can improve prediction accuracy.
+However, most studies focus on individual algorithms
+rather than comprehensive comparisons [2]. Our study
+addresses this gap by systematically comparing multiple
+machine learning approaches for cardiovascular disease
+prediction [3]. We evaluate how different models perform
+on both classification tasks (predicting whether someone
+will develop heart disease) and regression tasks (estimating
+continuous risk scores). Our goal is to identify which
+methods work best in practice and provide insights that
+could help doctors make better treatment decisions.
+Index Terms—multi-model comparison, multi-target pre-
+diction, svm, xgboost, decision tree, random forest, mlp,
+catboost
